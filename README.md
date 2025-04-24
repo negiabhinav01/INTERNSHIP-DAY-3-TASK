@@ -17,14 +17,6 @@ How to Use
 1.	Import the provided CSV files into your SQL database.
 2.	Run the SQL scripts from the SQL Queries/ folder.
 3.	Analyze the results and insights generated from the queries.
-Preview of SQL Queries
-Screenshot 2025-03-26 005418
-
-Screenshot 2025-03-26 012436
-
-Screenshot 2025-03-26 015608
-
-Screenshot 2025-03-26 210248
 
 Insights & Findings
 📌 Top Scorers: Player A and Player B have the highest total runs. 📌 Most Wins: Team X has won the most matches in the dataset. 📌 Best Bowler: Player C has taken the highest number of wickets.
